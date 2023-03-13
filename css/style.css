@@ -1,0 +1,245 @@
+.banner-top{
+    width: 100% !important;
+    min-height: 500px;
+    background-image: url(../images/banner1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 20px;
+}
+
+.navbar-light{
+    background-color: transparent !important;
+}
+
+.container{
+    width: 960px !important;
+}
+
+.navbar-nav .nav-link{
+    color: #eee;
+}
+
+.navbar-nav .nav-link.active{
+    color: #b15e11;
+}
+
+.navbar-brand{
+    color: #fff;
+    border: 2px solid #fff;
+    width: 170px;
+    padding:5px 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.banner-middle{
+    padding-top: 60px;
+    color: #eee;
+
+}
+
+.banner-middle .row ul{
+    list-style-type: none;
+
+}
+
+.banner-middle .row ul li{
+padding: 5px 6px;
+}
+
+.fa{
+    color: #b15e11;
+    font-size: 18px;
+}
+
+.banner-middle .row ul li span{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border: 1px solid #eee;
+    text-align: center;
+    padding: 3px;
+    margin-right: 10px;
+}
+.centered{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.widget{
+    width: 100% !important;
+    height: 450px;
+    background-image: url(../images/ser.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 20px;
+     
+} 
+
+.volorange{
+    color: #b15e11; 
+}
+
+.trans{ 
+    height: 235px;
+    width: 55%;
+    margin-right: 80px;
+    margin-top: -20px;
+    margin-left: 14px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.500)
+}
+
+.trans p{
+    color: darkgray;
+}
+.shift {
+ margin: 30px 20px 0px 100px;  
+}
+
+.Autem{
+    margin: 20px 20px 0px 90px; 
+}
+
+.Autem-1{
+    margin: 20px 20px 0px 90px;
+    color:white;  
+}
+.howcontents{
+    text-align: center;
+    margin-top: 50px;
+}
+.blue-font{
+    color: rgba(2, 2, 60, 0.718);
+    margin-top: 30px;
+}
+
+.bigicons{
+    font-size: 2rem;
+    margin-top: 30px;
+}
+
+.move{
+    margin-top: 50px;
+}
+
+.move-1{
+    margin-top: 50px;
+    background-color: rgb(144, 201, 203);
+    padding-left: 30px;
+    padding-top: 40px;
+}
+.move-1 h3{
+    margin-bottom: 30px;
+}
+
+.roundb{
+    background-color: rgb(33, 36, 83);
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+    display: inline-block;
+    margin-top: 60px;
+}
+
+.roundy{
+    background-color: rgba(201, 120, 14, 0.692);
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+    display: inline-block; 
+    margin: 60px 10px 0;
+}
+.space{
+    margin-bottom: 40px;
+}
+.hone{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 80px;
+}
+.space span{
+    margin-left: 20px;
+}
+.space h5{
+    margin-top: 30px;
+}
+.coloredh5s{
+    color: rgba(201, 120, 14, 0.692);
+}
+
+.navyback{
+    background-color: rgb(2, 2, 28);
+    color: #fff;
+}
+.navyback ul{
+    transform: translateX(-30px);
+    margin-top: 20px;
+
+}
+.navyback a{
+    text-decoration: none;
+    display: block;
+    color: darkgray;
+
+}
+.lines{
+    border-bottom: 2px solid rgb(73, 71, 71) ;
+    height: 300px;
+    margin-bottom: 50px;
+}
+.quick{
+    border-right: 2px solid rgb(73, 71, 71);
+    padding: 0 10px;
+    display: inline-block;
+    margin: 50px 0px 50px 0;
+    
+}
+ 
+.support{
+    border-right: 2px solid rgb(73, 71, 71) ;
+    padding: 0 10px;
+    display: inline-block;
+    margin: 50px 0px; 
+    transform: translateX(30px);
+}
+.support div{
+    padding: 10px 0;
+} 
+.support span{
+    padding-right: 20px;
+    margin-left: 10px;
+}
+.funfun{
+    color: rgb(73, 71, 71)!important;
+}
+.funfun p, span{
+    color: rgb(73, 71, 71);
+}
+.funfun h6{
+    color: white!important;
+}
+
+.long{
+    width: 100%;
+    background-color: #b15e11;
+    margin-top: 30px;
+}
+.long input{
+    width:90%;
+}
+
+.long .fa{
+    padding:0px 5px;
+font-size: 18px;
+    color: white !important;
+}
+
+.make-longer{
+    margin-top: 50px;
+transform: translateX(60px);
+}
+.make-longer p{
+    width: 490px;
+}
